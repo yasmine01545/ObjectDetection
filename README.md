@@ -14,7 +14,7 @@ pip install opencv-python
 ```
 # ObjectDetection
 Object Detection is a computer technology related to computer vision, image processing, and deep learning that deals with detecting instances of objects in images and videos.
-# Database
+## Database
 Microsoft's Common Objects in Context dataset (COCO) is the most popular object detection dataset at the moment. It is widely used to benchmark the performance of computer vision methods.
 
 The COCO Dataset: The MS COCO dataset is a large-scale object detection, segmentation, and captioning dataset published by Microsoft.
@@ -30,7 +30,7 @@ There are different dataset splits available to download for free.
 
 To download them and see the most recent Microsoft COCO 2020 challenges, visit the official MS COCO website https://cocodataset.org/#download
 # Object Detection using Mobilenet SSD
-# What is MobilenetSSD?
+## What is MobilenetSSD?
 
 Convolutional neural networks are used to develop a model that consists of multiple layers for classifying given objects into one of the defined classes. 
 These objects are detected using higher resolution feature maps made possible by recent advances in deep learning with image processing. 
