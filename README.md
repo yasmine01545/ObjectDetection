@@ -15,7 +15,7 @@ The COCO dataset classes for object detection and tracking include the following
 ![image](https://user-images.githubusercontent.com/80918787/210131839-90dcb3e6-f484-441b-b613-c955a983d0d2.png)
 # How to download the COCO dataset
 There are different dataset splits available to download for free.
-To download them and see the most recent Microsoft COCO 2020 challenges, visit the official MS COCO website
-https://cocodataset.org/#download
+To download them and see the most recent Microsoft COCO 2020 challenges, 
+visit the official MS COCO website https://cocodataset.org/#download
 
 
