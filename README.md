@@ -19,10 +19,11 @@ There are different dataset splits available to download for free.
 
 To download them and see the most recent Microsoft COCO 2020 challenges, visit the official MS COCO website https://cocodataset.org/#download
 # Object Detection using Mobilenet SSD
-#What is MobilenetSSD?
+# What is MobilenetSSD?
 
 Convolutional neural networks are used to develop a model that consists of multiple layers for classifying given objects into one of the defined classes. 
-These objects are detected using higher resolution feature maps made possible by recent advances in deep learning with image processing. Mobilenet SSD is an object detection model that computes the output bounding box and object class from the input image.
+These objects are detected using higher resolution feature maps made possible by recent advances in deep learning with image processing. 
+Mobilenet SSD is an object detection model that computes the output bounding box and object class from the input image.
 This Single Shot Detector (SSD) object detection model uses Mobilenet as a backbone and can achieve fast object detection optimized for mobile devices.
 
 
