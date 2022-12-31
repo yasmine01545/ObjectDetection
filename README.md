@@ -40,4 +40,11 @@ This Single Shot Detector (SSD) object detection model uses Mobilenet as a backb
 
 ![image](https://user-images.githubusercontent.com/80918787/210132312-79c223f8-aacb-473b-b7df-327de4ecc09a.png)
 
-## Weights and configuration files
+OpenCV needs an extra configuration file to import object detection models from TensorFlow
+## Use existing config file for your model
+we can use one of the configs that has been tested in OpenCV
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
