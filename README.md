@@ -48,3 +48,12 @@ we can use configs files that has been tested in OpenCV which is available on Op
 | Model | version   |  weights   |    architecture   |
 | :-----: | :---: | :---: | :---: |
 | MobileNet-SSD v3  | 2020_01_14  | [weights](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v3_large_coco_2020_01_14.tar.gz)   |[config](https://gist.github.com/dkurt/54a8e8b51beb3bd3f770b79e56927bd7) 
+
+
+"...the **go to** statement should be abolished..." [[1]](#1).
+
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
