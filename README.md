@@ -4,6 +4,7 @@ Training a performing deep learning model for object detection
 Evaluate your model.
 Test it with random images and video.
 # Database
+Microsoft's Common Objects in Context dataset (COCO) is the most popular object detection dataset at the moment. It is widely used to benchmark the performance of computer vision methods.
 The COCO Dataset
 The MS COCO dataset is a large-scale object detection, segmentation, and captioning dataset published by Microsoft.
 
