@@ -46,7 +46,7 @@ we can use one of the configs that has been tested in OpenCV
 
 Model         | Version      |      |
 ------------- | -------------|-------|       
-------------- | -------------|-------|
+ | ||
 Content Cell  | Content Cell |         |
 Content Cell  | Content Cell |         |
 
