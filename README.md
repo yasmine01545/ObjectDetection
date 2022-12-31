@@ -27,3 +27,4 @@ Mobilenet SSD is an object detection model that computes the output bounding box
 This Single Shot Detector (SSD) object detection model uses Mobilenet as a backbone and can achieve fast object detection optimized for mobile devices.
 
 
+![image](https://user-images.githubusercontent.com/80918787/210132312-79c223f8-aacb-473b-b7df-327de4ecc09a.png)
