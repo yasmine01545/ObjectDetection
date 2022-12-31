@@ -39,6 +39,8 @@ This Single Shot Detector (SSD) object detection model uses Mobilenet as a backb
 
 
 ![image](https://user-images.githubusercontent.com/80918787/210132312-79c223f8-aacb-473b-b7df-327de4ecc09a.png)
+## why MobilenetSSD?
+we choose MobilnetSSd because it is one of the best methods right now which has a good balance between accuracy and speed so will be able to run with our cpu almost real time and it will be able to detect a lot of objects with a good accuracy
 
 OpenCV needs an extra configuration file to import object detection models from TensorFlow
 ## Use existing config file for your model
