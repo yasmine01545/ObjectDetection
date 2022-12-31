@@ -51,4 +51,4 @@ we can use one of the configs that has been tested in OpenCV
 
 | Model | version   | #2    |
 | :-----: | :---: | :---: |
-| MobileNet-SSD v3  | 2020_01_14  | [283](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v3_large_coco_2020_01_14.tar.gz)   |
+| MobileNet-SSD v3  | 2020_01_14  | [weights](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v3_large_coco_2020_01_14.tar.gz)   |
