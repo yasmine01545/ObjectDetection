@@ -12,4 +12,6 @@ COCO stands for Common Objects in Context, as the image dataset was created with
 The COCO dataset contains challenging, high-quality visual datasets for computer vision, mostly state-of-the-art neural networks.
 # List of the COCO Object Classes
 The COCO dataset classes for object detection and tracking include the following pre-trained 80 objects:
+![image](https://user-images.githubusercontent.com/80918787/210131839-90dcb3e6-f484-441b-b613-c955a983d0d2.png)
+
 
