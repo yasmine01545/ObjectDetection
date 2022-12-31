@@ -1,8 +1,8 @@
 
 we will Create applications that upload images or videos to detect the object and the category of all objects present in this image.
->Training a performing deep learning model for object detection
-> Evaluate your model.
-> Test it with random images and video.
+1. Training a performing deep learning model for object detection
+2. Evaluate your model.
+3. Test it with random images and video.
 
 # OpenCV
 OpenCv is the huge open-source library for computer vision, machine learning, and image processing and now it plays a major role in real-time operation which is very important in today’s systems. By using it, one can process images and videos to identify objects, faces, or even the handwriting of a human. This article Readme we will focus on detecting objects.
