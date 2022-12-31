@@ -44,7 +44,9 @@ OpenCV needs an extra configuration file to import object detection models from 
 ## Use existing config file for your model
 we can use one of the configs that has been tested in OpenCV
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Model         | Version      |      |
+------------- | -------------|-------|       
+------------- | -------------|-------|
+Content Cell  | Content Cell |         |
+Content Cell  | Content Cell |         |
+
