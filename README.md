@@ -1,8 +1,10 @@
-# ObjectDetection
+
 we will Create applications that upload images or videos to detect the object and the category of all objects present in this image.
 Training a performing deep learning model for object detection
 Evaluate your model.
 Test it with random images and video.
+# ObjectDetection
+Object Detection is a computer technology related to computer vision, image processing, and deep learning that deals with detecting instances of objects in images and videos.
 # Database
 Microsoft's Common Objects in Context dataset (COCO) is the most popular object detection dataset at the moment. It is widely used to benchmark the performance of computer vision methods.
 
