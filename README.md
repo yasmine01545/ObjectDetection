@@ -51,4 +51,4 @@ we can use one of the configs that has been tested in OpenCV
 
 | Attempt | #1    | #2    |
 | :-----: | :---: | :---: |
-| Seconds | 301   | 283   |
+| MobileNet-SSD v3  | 2020_01_14  | 283   |
