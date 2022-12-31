@@ -49,6 +49,6 @@ we can use one of the configs that has been tested in OpenCV
 | MobileNet-SSD v3    | 2020_01_14    | http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v3_large_coco_2020_01_14.tar.gz |       https://gist.github.com/dkurt/54a8e8b51beb3bd3f770b79e56927bd7  |
 
 
-| Model | version   | #2    |
-| :-----: | :---: | :---: |
-| MobileNet-SSD v3  | 2020_01_14  | [weights](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v3_large_coco_2020_01_14.tar.gz)   |
+| Model | version   |     |       |
+| :-----: | :---: | :---: | :---: |
+| MobileNet-SSD v3  | 2020_01_14  | [weights](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v3_large_coco_2020_01_14.tar.gz)   |[config](https://gist.github.com/dkurt/54a8e8b51beb3bd3f770b79e56927bd7) 
