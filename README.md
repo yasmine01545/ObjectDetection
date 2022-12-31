@@ -46,7 +46,7 @@ we can use one of the configs that has been tested in OpenCV
 
 Model         | Version      |      |
 ------------- | -------------|-------|       
- | ||
-Content Cell  | Content Cell |         |
+
+ MobileNet-SSD v3|2020_01_14 | http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v3_large_coco_2020_01_14.tar.gz |       https://gist.github.com/dkurt/54a8e8b51beb3bd3f770b79e56927bd7  |
 Content Cell  | Content Cell |         |
 
