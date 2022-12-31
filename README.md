@@ -54,8 +54,8 @@ we can use configs files that has been tested in OpenCV which is available on Op
 
 ## References
 
- Markup : * [Tensorflow Library](https://www.tensorflow.org/)
+* [Tensorflow Library](https://www.tensorflow.org/)
 
- Markup : * [Coco Dataset](https://cocodataset.org/#home)
- Markup : * [OpenCv doc](https://docs.opencv.org/4.x/)
+ * [Coco Dataset](https://cocodataset.org/#home)
+ -  [OpenCv doc](https://docs.opencv.org/4.x/)
 
